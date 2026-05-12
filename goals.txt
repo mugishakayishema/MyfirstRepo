@@ -1,0 +1,6 @@
+My Goals
+
+* Learn Git and GitHub
+* Understand branching
+* Learn how to push code
+* Practice collaboration
