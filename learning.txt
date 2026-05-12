@@ -1,1 +1,3 @@
-I learned how to use GitHub and Git commands like clone, add, commit, and push. I also learned how repositories work.
+What I have learned from this course:
+
+I learned how to use GitHub and Git commands like clone, add, commit, and push. I also learned how repositories work and how to upload files to GitHub.
