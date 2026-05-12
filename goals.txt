@@ -1,6 +1,7 @@
-My Goals
+My Personal and Academic Goals for Next Year
 
-* Learn Git and GitHub
-* Understand branching
-* Learn how to push code
-* Practice collaboration
+* Improve my Git and GitHub skills
+* Learn more programming concepts
+* Build personal projects
+* Get better at collaboration
+
