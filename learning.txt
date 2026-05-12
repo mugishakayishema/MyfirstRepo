@@ -1,0 +1,1 @@
+I learned how to use GitHub and Git commands like clone, add, commit, and push. I also learned how repositories work.
